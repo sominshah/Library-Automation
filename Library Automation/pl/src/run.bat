@@ -1,0 +1,1 @@
+javac -classpath ..\..\bl\classes;..\..\jdbcdl\classes;c:\somin\itext\*;. -d ..\classes com\thinking\machines\library\pl\*java

@@ -1,0 +1,1 @@
+javac -classpath c:\jdk1.8\db\lib\*;..\..\bl\classes;..\..\tmsfcs\classes;..\classes;c:\somin\itext\*;. AuthorFrameTestCase.java

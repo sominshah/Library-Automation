@@ -1,0 +1,1 @@
+javac -classpath ..\..\jdbcdl\classes;c:\somin\itext\*;..\nafServer.jar;..\nafCommon.jar;. -d ..\classes com\thinking\machines\library\server\*java

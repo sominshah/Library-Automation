@@ -1,0 +1,1 @@
+java -classpath c:\jdk1.8\db\lib\*;c:\somin\itext\*;..\jdbcdl\classes;classes;nafServer.jar;nafCommon.jar;. com.thinking.machines.library.server.LibraryServer

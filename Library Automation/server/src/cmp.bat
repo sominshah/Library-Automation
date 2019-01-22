@@ -1,0 +1,1 @@
+javac -classpath ..\..\jdbcdl\classes;. -d ..\classes com\thinking\machines\library\server\*java 
